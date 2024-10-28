@@ -24,3 +24,9 @@ Siga as instruções abaixo para rodar o projeto na sua máquina.
 
 - **Node.js** e **NPM** (ou outro gerenciador de pacotes compatível)
 
+---
+
+
+https://github.com/user-attachments/assets/c5f0cf09-c7d5-4495-90ab-be3a21646247
+
+
