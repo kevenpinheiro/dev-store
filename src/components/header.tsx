@@ -23,7 +23,7 @@ export default function Header() {
           <span className="text-sm">Account</span>
 
           <Image
-            src="https://github.com/Kevenguilherme.png"
+            src="https://github.com/kevenpinheiro.png"
             className="h-6 w-6 rounded-full"
             width={24}
             height={24}
