@@ -8,5 +8,3 @@ export function api(path: string, init?: RequestInit) {
 
   return fetch(url, init)
 }
-
-// api(./products)
